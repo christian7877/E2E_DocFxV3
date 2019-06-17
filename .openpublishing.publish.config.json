@@ -18,6 +18,9 @@
       "template_folder": "_themes"
     }
   ],
+  "feature_flags": {
+    "enable_publish_pipeline": true
+  },
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
