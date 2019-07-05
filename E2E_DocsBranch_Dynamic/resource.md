@@ -1,3 +1,4 @@
 # Resource file
 
-## Resource file testing. Here's the image: ![](./windows.jpg)
+## Resource file testing. Here's the image: 
+![](./windows.jpg)
