@@ -44,5 +44,5 @@
    {
    "name": "docfx_v3"
    },
-  enable_publish_pipeline: true
+  "enable_publish_pipeline": true
 }
