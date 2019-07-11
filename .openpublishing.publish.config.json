@@ -39,5 +39,7 @@
    {
    "name": "docfx_v3"
    },
-  "enable_publish_pipeline": true
+  "feature_flags": {
+    "enable_publish_pipeline": true
+  }
 }
