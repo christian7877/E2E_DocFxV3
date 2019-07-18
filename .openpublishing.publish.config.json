@@ -3,7 +3,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocFxV3",
-      "build_source_folder": ".",
+      "build_source_folder": "E2E_DocsBranch_Dynamic",
       "build_output_subfolder": "E2E_DocFxV3",
       "locale": "en-us",
       "monikers": [],
