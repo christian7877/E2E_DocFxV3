@@ -22,7 +22,8 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [
     "e2e-v3-pr-addcontent",
-    "e2e-v3-pr-updatecontent"
+    "e2e-v3-pr-updatecontent",
+    "e2e-v3-pr-deletecontent"
   ],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
