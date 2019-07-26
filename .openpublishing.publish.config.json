@@ -24,7 +24,9 @@
     "e2e-v3-pr-addcontent",
     "e2e-v3-pr-updatecontent",
     "e2e-v3-pr-deletecontent",
-    "e2e-v3-pr-addtoc"
+    "e2e-v3-pr-addtoc",
+    "e2e-v3-pr-updatetoc",
+    "e2e-v3-pr-deletetoc"
   ],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
