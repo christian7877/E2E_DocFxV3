@@ -26,7 +26,10 @@
     "e2e-v3-pr-deletecontent",
     "e2e-v3-pr-addtoc",
     "e2e-v3-pr-updatetoc",
-    "e2e-v3-pr-deletetoc"
+    "e2e-v3-pr-deletetoc",
+    "e2e-v3-pr-addResource",
+    "e2e-v3-pr-updateResource",
+    "e2e-v3-pr-deleteResource"
   ],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
