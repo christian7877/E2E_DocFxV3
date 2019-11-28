@@ -1,9 +1,7 @@
 ---
 author: staceyhong
-ms.date: 
-  - 03/11/2019
-  - 10/25/2019
 title: suggestion test
 ---
 
-# multiple value test
+# multiple h1 will cause suggestion 1
+# multiple h1 will cause suggestion 2
