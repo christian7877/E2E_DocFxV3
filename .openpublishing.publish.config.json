@@ -46,6 +46,10 @@
    "buildpdf-e2e": [
       "Publish",
       "Pdf"
+    ],
+    "buildpdf-e2e-bug142632": [
+      "Publish",
+      "Pdf"
     ]
   },
   "need_generate_pdf_url_template": true,
