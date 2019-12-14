@@ -2,7 +2,7 @@
   "redirections":[
   {
     "source_path":"E2E_DocsBranch_Dynamic/AbsoluteUrl.md",
-    "redirect_url":"index?branch=redirectAbsoluteUrl",
+    "redirect_url":"index238?branch=redirectAbsoluteUrl",
     "my_metadata": "hello",
     "others": "world"
   }
