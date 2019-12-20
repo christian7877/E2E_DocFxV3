@@ -1,8 +1,8 @@
 {
   "redirections":[
   {
-    "source_path":"E2E_DocFxV3/index.md",
-    "redirect_url":"/E2E_DocFxV3/redirection",
+    "source_path":"E2E_DocsBranch_Dynamic/index.md",
+    "redirect_url":"/E2E_DocsBranch_Dynamic/redirection",
     "redirect_document_id":true
   }
  ]
