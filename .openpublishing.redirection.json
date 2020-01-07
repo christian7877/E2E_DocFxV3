@@ -1,8 +1,19 @@
 {
   "redirections": [
     {
-      "source_path": "E2E_DocsBranch_Dynamic/about/index.md",
-      "redirect_url": "/dotnetest/standard/index"
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/deploying/index.md",
+      "redirect_url": "/dotnet/core/deploying/index",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/dependencies.md",
+      "redirect_url": "/dotnet/core/tools/dependencies",
+      "redirect_document_id": true
     },
     {
       "source_path": "E2E_DocsBranch_Dynamic/about/products.md",
@@ -11,23 +22,6 @@
     {
       "source_path": "E2E_DocsBranch_Dynamic/architecture/microservices/architect-microservice-container-applications/communication-between-microservices.md",
       "redirect_url": "/dotnetest/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture",
-      "redirect_document_id": true
-    },
-    {
-
-      "source_path": "docs/core/preview3/deploying/index.md",
-      "redirect_url": "/dotnet/core/deploying/index",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "docs/core/preview3/tools/csproj.md",
-      "redirect_url": "/dotnet/core/tools/csproj",
-      "redirect_document_id": true
-    },
-
-    {
-      "source_path": "docs/core/preview3/tools/dependencies.md",
-      "redirect_url": "/dotnet/core/tools/dependencies",
       "redirect_document_id": true
     }
   ]
