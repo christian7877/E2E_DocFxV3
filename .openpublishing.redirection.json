@@ -1,0 +1,17 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/about/index.md",
+      "redirect_url": "/dotnet/standard/index"
+    },
+    {
+      "source_path": "docs/about/products.md",
+      "redirect_url": "/dotnet/standard/components"
+    },
+    {
+      "source_path": "docs/architecture/microservices/architect-microservice-container-applications/communication-between-microservices.md",
+      "redirect_url": "/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture",
+      "redirect_document_id": true
+    }
+  ]
+}
