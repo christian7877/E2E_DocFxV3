@@ -14,10 +14,6 @@
       "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/dependencies.md",
       "redirect_url": "/dotnet/core/tools/dependencies",
       "redirect_document_id": true
-    },
-    {
-      "source_path": "E2E_DocsBranch_Dynamic/about/products.md",
-      "redirect_url": "/dotnetest/standard/components"
     }
   ]
 }
