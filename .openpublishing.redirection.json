@@ -18,11 +18,6 @@
     {
       "source_path": "E2E_DocsBranch_Dynamic/about/products.md",
       "redirect_url": "/dotnetest/standard/components"
-    },
-    {
-      "source_path": "E2E_DocsBranch_Dynamic/architecture/microservices/architect-microservice-container-applications/communication-between-microservices.md",
-      "redirect_url": "/dotnetest/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture",
-      "redirect_document_id": true
     }
   ]
 }
