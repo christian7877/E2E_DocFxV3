@@ -1,5 +1,7 @@
 ---
-keywords: metadata, user manual
-ms.translationtype: Human Translation
+ms.auth: true
+ms.lang: en-us
+ms.loc: en-us
+ms.puidhash: test
 ---
-# this is a test page 2/13/2020 11:32:37 AM
+# this is a test page
