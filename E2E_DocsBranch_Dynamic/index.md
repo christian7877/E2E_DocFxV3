@@ -3,14 +3,11 @@ author: luyajun0205
 title: OPS E2E test
 ---
 
-# inline testing 1		
+# Verify suggestion reported for code block by Indented
 
-inline code `this is inline code` testing.
+## code-block-indented
 
-## inline testing 2		
-
-inline code ``this is inline code`` testing.
-
-## inline testing 3
-
-inline code ```this is inline code``` testing.
+```go
+     no suggestion within a triple backtick for indented
+```
+    indented testing, should throw suggestion
