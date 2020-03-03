@@ -1,4 +1,5 @@
-"redirections": [
+{
+        "redirections": [
         {
             "source_path": "E2E_DocsBranch_Dynamic/index.md",
             "redirect_url": "https://docs.microsoft.com/en-us/",
