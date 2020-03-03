@@ -1,3 +1,3 @@
 # reference
 
-this is a file reference [index](./index.md) page
+this is a file reference  page
