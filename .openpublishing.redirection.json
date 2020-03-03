@@ -2,7 +2,7 @@
         "redirections": [
         {
             "source_path": "E2E_DocsBranch_Dynamic/testcodeblock.md",
-            "redirect_url": "https://docs.microsoft.com/en-us/",
+            "redirect_url": "/E2E_DocsBranch_Dynamic/index.md",
             "redirect_document_id": false
         }
          ]
