@@ -35,7 +35,8 @@
       "path_to_root": "E2E_DocFxV3/codeblock",
       "url": "https://github.com/OPS-E2E-PPE/E2E_RepoConifg_Docfxv3",
       "branch": "code-block-validation-indented-dependent",
-      "branch_mapping": {}
+      "branch_mapping": {},
+      "include_in_build": true
     }
   ],
   "branch_target_mapping": {},
