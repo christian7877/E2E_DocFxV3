@@ -1,9 +1,9 @@
 {
-        "redirections": [
+    "redirections": [
         {
             "source_path": "E2E_DocsBranch_Dynamic/testcodeblock.md",
             "redirect_url": "/E2E_DocsBranch_Dynamic/index",
             "redirect_document_id": false
         }
-         ]
+     ]
 }
