@@ -1,7 +1,7 @@
 {
     "redirections": [
         {
-            "source_path": "E2E_DocsBranch_Dynamic/index.md",
+            "source_path": "E2E_DocsBranch_Dynamic/testing/testing.md",
             "redirect_url": "https://docs.microsoft.com/en-us/",
             "redirect_document_id": false
         }
