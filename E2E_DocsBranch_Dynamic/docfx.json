@@ -29,7 +29,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "title": "duplicated title"
+      "title": "duplicated title"，
+      "description": "duplilcated description"
     },
     "fileMetadata": {},
     "template": [],
