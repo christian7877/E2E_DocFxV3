@@ -1,7 +1,7 @@
 ---
 title: duplicated titleone
-description: duplicated descriptionsecond
+description: duplicated descriptionone
 ---
 
-# Duplicated h1
+# Duplicated h1 one
 
