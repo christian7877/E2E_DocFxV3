@@ -1,1 +1,7 @@
-# Testing for duplicated title
+---
+title: duplicated title
+description: duplicated description
+---
+
+# Duplicated h1
+
