@@ -1,6 +1,6 @@
 ---
 title: duplicated title two
-description: duplicated description twp
+description: 
 ---
 
 # Duplicated h1 two
