@@ -1,5 +1,5 @@
 ---
-title: duplicated title two
+title: 
 description: description
 ---
 
