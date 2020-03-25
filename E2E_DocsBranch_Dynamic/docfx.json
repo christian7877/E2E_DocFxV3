@@ -29,10 +29,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {	},
-    "fileMetadata": {
-	"description":{"DuplicateTitle/*.md": null },
-        "title":{"DuplicateTitle/*.md": null}
-	},
+    "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
