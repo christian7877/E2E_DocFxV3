@@ -30,7 +30,8 @@
     "externalReference": [],
     "globalMetadata": {	},
     "fileMetadata": {
-	"description":{"DuplicateTitle/*.md": }
+	"description":{"DuplicateTitle/*.md": null },
+        "title":{"DuplicateTitle/*.md": null}
 	},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
