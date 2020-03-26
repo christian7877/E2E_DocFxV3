@@ -32,7 +32,7 @@
         "description":"duplicate description"
      },
     "fileMetadata": {
-	"description":{"DuplicatedItems/*.md":"duplicate description"}
+	"description":{"DuplicatedItems/ymlhead-1.md":"duplicate description"}
      },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
