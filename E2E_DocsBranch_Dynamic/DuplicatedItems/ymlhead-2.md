@@ -1,4 +1,5 @@
 ---
+title: duplicated title two
 description: duplicated description two
 ---
 
