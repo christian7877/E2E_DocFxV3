@@ -30,7 +30,7 @@
     "externalReference": [],
     "globalMetadata": {},
     "fileMetadata": {
-       "title":{"DuplicateTitle/*.md":"Duplicated title"}
+       "title":{"DuplicateTitle/ymlhead-1.md":"duplicated title one"}
      },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
