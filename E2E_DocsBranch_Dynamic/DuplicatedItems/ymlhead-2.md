@@ -1,5 +1,5 @@
 ---
-description: duplicated description two
+title: duplicated title two
 ---
 
 # H1 two
