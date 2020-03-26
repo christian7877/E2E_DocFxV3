@@ -29,12 +29,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-	"title":"duplicated title one",
-        "description":"dulicated description one"
+	"title":"duplicated title globalMetadata",
+        "description":"dulicated description globalMetadata"
      },
     "fileMetadata": {
-       "title":{"DuplicatedItems/*.md":"duplicated title one"},
-       "description":{"DuplicatedItems/*.md":"dulicated description one"}
+       "title":{"DuplicatedItems/*.md":"duplicated title fileMetadata"},
+       "description":{"DuplicatedItems/*.md":"dulicated description fileMetadata"}
      },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
