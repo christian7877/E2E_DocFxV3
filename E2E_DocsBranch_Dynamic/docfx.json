@@ -34,7 +34,7 @@
      },
     "fileMetadata": {
        "title":{"DuplicatedItems/*.md":"duplicated title one"},
-       "description":{"DuplicatedItems/*.md":"dulicated description one time"}
+       "description":{"DuplicatedItems/*.md":"dulicated description one"}
      },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
