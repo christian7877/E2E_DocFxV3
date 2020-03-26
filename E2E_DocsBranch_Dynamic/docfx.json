@@ -28,9 +28,13 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+	"title":"duplicate title globalMetadata",
+        "description":"duplicate description globalMetadata"
+     },
     "fileMetadata": {
-       "description":{"DuplicatedItems/ymlhead-1.md":"duplicated description two"}
+       "title":{"DuplicatedItems/ymlhead-1.md":"duplicated title filemeta"},
+       "description":{"DuplicatedItems/ymlhead-2.md":"duplicated description filemeta"}
      },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
