@@ -31,7 +31,8 @@
     "globalMetadata": {
 	"title":"duplicate title",
         "description":"duplicate description"
-     }
+     },
+    "fileMetadata":{},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
