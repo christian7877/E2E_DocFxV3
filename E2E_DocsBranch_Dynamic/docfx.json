@@ -33,7 +33,7 @@
         "description":"duplicate description"
      },
     "fileMetadata": {
-	"description":{"DuplicatedItems/*.md":"duplicate description"},
+	"description":{"DuplicatedItems/*.md":"duplicate descriptioN"},
 	"title":{"DuplicatedItems/*.md":"duplicate title"}
      },
     "template": [],
