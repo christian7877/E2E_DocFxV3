@@ -1,0 +1,42 @@
+- name: Index
+  href: index.md
+- name: BuildPDF
+  href: pdf.md
+- name: DevTask194647
+  items:
+  - name: cs-cz
+    href: DevTask194647/cs-cz.md
+  - name: de-de
+    href: DevTask194647/de-de.md
+  - name: emoji
+    href: DevTask194647/emoji.md
+  - name: en-us
+    href: DevTask194647/en-us.md
+  - name: es-es
+    href: DevTask194647/es-es.md
+  - name: fr-fr
+    href: DevTask194647/fr-fr.md
+  - name: hu-hu
+    href: DevTask194647/hu-hu.md
+  - name: it-it
+    href: DevTask194647/it-it.md
+  - name: ja-jp
+    href: DevTask194647/ja-jp.md
+  - name: ko-kr
+    href: DevTask194647/ko-kr.md
+  - name: pl-pl
+    href: DevTask194647/pl-pl.md
+  - name: pt-br
+    href: DevTask194647/pt-br.md
+  - name: pt-pt
+    href: DevTask194647/pt-pt.md
+  - name: ru-ru
+    href: DevTask194647/ru-ru.md
+  - name: sv-se
+    href: DevTask194647/sv-se.md
+  - name: tr-tr
+    href: DevTask194647/tr-tr.md
+  - name: zh-cn
+    href: DevTask194647/zh-cn.md
+  - name: zh-tw
+    href: DevTask194647/zh-tw.md
