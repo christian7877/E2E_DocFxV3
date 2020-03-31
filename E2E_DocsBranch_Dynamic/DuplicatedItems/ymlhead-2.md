@@ -1,6 +1,6 @@
 ---
-title: Duplicate Title
-description: duplicate descriptioN
+title: Duplicate Title1
+description: duplicate descriptioN2
 ---
 
 # H1 onE
