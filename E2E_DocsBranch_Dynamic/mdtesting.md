@@ -1,5 +1,5 @@
 ---
-open_to_contributors: true
-ROBOTS: NOINDEX
+toc_rel: testtoc.json
+site_name: testsitename
 ---
-# this is a test page 4/6/2020 11:38:46 AM
+# this is a test page
