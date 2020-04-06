@@ -1,5 +1,7 @@
 ---
-open_to_contributors: fenxu123
-ROBOTS: fenxu123
+ms.auth: true
+ms.lang: en-us
+ms.loc: en-us
+ms.puidhash: test
 ---
 # this is a test page
