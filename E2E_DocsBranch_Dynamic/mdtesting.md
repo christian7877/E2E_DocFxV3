@@ -1,6 +1,4 @@
 ---
-search.ms_sitename: testsitename
-search.ms_product: testproduct
-search.ms_docsetname: testdocsetname
+title: this is a test page 123
 ---
 # this is a test page
