@@ -29,7 +29,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
-    "fileMetadata": {},
+    "fileMetadata": {
+      "titleSuffix": { 
+        "E2E_DocsBranch_Dynamic/index.md": "SEO Test"
+        }
+     },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
