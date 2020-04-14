@@ -8,9 +8,6 @@
 ### 1.3 Alt text with html tag
 ![<b>test</b> alt text](./images/pig3.jpg)
 ![<div><b>test</b></div> alt text](./images/pig4.jpg)
-### 1.4 Image with error source
-![test alt text](./images/error.jpg)
-
 
 ## 2. Follow the rule
 ### 2.1 Image with unique alt text
