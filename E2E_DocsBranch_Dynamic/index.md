@@ -3,7 +3,6 @@
 ## 1. Against the rule
 ### 1.1 Image markdown syntax
 ![test alt text](./images/pig1.jpg)
-![test alt text](./images/pig1.jpg)
 ### 1.2 Alt text with inline container
 ![**test** alt text](./images/pig2.jpg) 
 ### 1.3 Alt text with html tag
