@@ -1,3 +1,3 @@
-# [Test case 11.1] Image cross page - Image Alt Text Duplicated
+# Test Case 200473: [SEO Validation][Standard]: Verify suggestion reported for duplicated image alt text(cross page)
 
-![unique alt text](./images/pig1.jpg)
+![alt text](./images/pig1.jpg)
