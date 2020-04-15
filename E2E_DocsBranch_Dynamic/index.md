@@ -1,4 +1,4 @@
-# [Test case 2] Image use HTML syntax - Image Alt Text Duplicated
+# Test Case 200496: [SEO Validation][Standard]: Verify suggestion reported for duplicated image alt text(html Syntax)
 
 ## 1. Against the rule
 
