@@ -23,7 +23,7 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE"
-        ]
+        ],
         "src": "level3",
         "dest": "."
       }
