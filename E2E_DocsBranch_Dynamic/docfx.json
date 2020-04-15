@@ -24,7 +24,7 @@
           "LICENSE",
           "LICENSE-CODE"
         ]
-        "src" : "level3",
+        "src": "level3",
         "dest": "."
       }
     ],
