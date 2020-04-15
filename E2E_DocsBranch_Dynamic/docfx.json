@@ -14,16 +14,7 @@
         ]
       },
       {
-         "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
+        "files": ["*.md"],        
         "src": "level2/level3",
         "dest": "."
       }
