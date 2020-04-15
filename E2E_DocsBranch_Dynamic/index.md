@@ -1,6 +1,4 @@
----
-author: luyajun0205
-title: e2etest
----
+# Test Case 200540: [SEO Validation][Standard]: Verify suggestion reported for duplicated image alt text(include file)
 
-# Welcome to E2E_DocsBranch_Dynamic docFxv3!
+## Refer to the file in includes folder
+File in [includes](./includes/includesFile.md) folder
