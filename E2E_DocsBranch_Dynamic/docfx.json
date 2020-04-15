@@ -11,8 +11,20 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE"
+        ]
+      },
+      {
+         "files": [
+          "**/*.md"
         ],
-        "src": "E2E_DocsBranch_Dynamic/level2/level3",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+        "src" : "level3",
         "dest": "."
       }
     ],
