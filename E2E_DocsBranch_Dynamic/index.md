@@ -14,4 +14,7 @@ Here is another paragrath. <div>
 <img src = "./images/pig8.jpg" alt = "test alt text" />
 </div>
 
+------------------------
+   test rusult: 6 test alt text
+
 
