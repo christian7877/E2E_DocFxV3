@@ -13,3 +13,5 @@ alt = "test alt text" />
 Here is another paragrath. <div>
 <img src = "./images/pig8.jpg" alt = "test alt text" />
 </div>
+
+
