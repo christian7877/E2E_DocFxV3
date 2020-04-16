@@ -1,6 +1,5 @@
----
-author: luyajun0205
-title: e2etest
----
+# Test Case 201345: [SEO Validation][Standard]: Verify no suggestion reported for the duplicated image alt text(same source)
 
-# Welcome to E2E_DocsBranch_Dynamic docFxv3!
+## same source
+![test alt text](./images/pig1.jpg)
+![test alt text](./images/pig1.jpg)
