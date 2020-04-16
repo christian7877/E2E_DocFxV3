@@ -1,6 +1,5 @@
----
-author: luyajun0205
-title: e2etest
----
+# Test Case 201373: [SEO Validation][Standard]: Verify no suggestion reported for duplicated image (empty)alt text
 
-# Welcome to E2E_DocsBranch_Dynamic docFxv3!
+## empty alt text
+![](./images/pig1.jpg)
+![](./images/pig2.jpg)
