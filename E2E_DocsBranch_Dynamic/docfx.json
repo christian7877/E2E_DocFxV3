@@ -2,7 +2,16 @@
   "build": {
     "content": [   
       {
-        "files": ["**/*.md"],        
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
         "src": "level2/level3",
         "dest": "."
       }
