@@ -12,7 +12,7 @@
           "LICENSE",
           "LICENSE-CODE"
         ],
-        "src": "level3",
+        "src": "level2/level3",
         "dest": "level2"
       }
     ],
