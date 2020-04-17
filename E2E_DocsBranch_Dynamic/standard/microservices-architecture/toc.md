@@ -1,0 +1,6 @@
+# [.NET Microservices: Architecture for Containerized .NET Applications](index.md)
+## [Introduction to Containers and Docker](container-docker-introduction/index.md)
+### [What is Docker?](container-docker-introduction/docker-defined.md)
+#### [Docker terminology](container-docker-introduction/docker-terminology.md)
+##### [Docker containers, images, and registries](container-docker-introduction/docker-containers-images-registries.md)
+###### [Key takeaways](key-takeaways.md)

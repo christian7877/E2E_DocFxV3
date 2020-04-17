@@ -1,1 +1,3 @@
-# [Index](index.md)
+#
+zero toc node - build failure
+
