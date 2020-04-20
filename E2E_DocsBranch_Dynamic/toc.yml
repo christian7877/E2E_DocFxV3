@@ -15,6 +15,3 @@
     href: nonexist.md        
   - name: Link to an invalid folder
     href: welcome/
-    items:
-    - name: Link to a toc md file
-      href: standard/microservices-architecture/toc.md
