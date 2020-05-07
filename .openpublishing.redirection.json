@@ -16,7 +16,7 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/test.md",
+      "source_path": "E2E_DocsBranch_Dynamic/index.md",
       "redirect_url": "/dotnet/core/tools",
       "redirect_document_id": true
     }
