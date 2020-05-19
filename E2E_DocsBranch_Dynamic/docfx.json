@@ -8,7 +8,6 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**",
           "token.md",
           "README.md",
           "LICENSE",
