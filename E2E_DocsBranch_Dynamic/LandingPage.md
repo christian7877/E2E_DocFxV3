@@ -10,7 +10,7 @@ This is H1
 This is H2
 ------------------
 
-<h3> this is h3
+<h3> this is h3 </h3>
   
 #### this is h4
 
