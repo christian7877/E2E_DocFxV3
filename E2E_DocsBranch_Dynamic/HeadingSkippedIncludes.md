@@ -4,4 +4,4 @@ title: Heading Skipped Testing in Include File
 ---
 
 # Refer to include file containing skipped heading
-[heading skipped file](includes/HeadingSkipped.md)
+[!include[](includes/HeadingSkipped.md)]
