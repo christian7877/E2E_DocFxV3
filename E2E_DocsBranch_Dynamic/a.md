@@ -6,4 +6,4 @@ title: multiple include files test
 #
 ## h2
 ### h3
-#### [!include[](b.md)]
+#### [!include[](includes/b.md)]
