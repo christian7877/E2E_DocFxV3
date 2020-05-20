@@ -7,8 +7,7 @@
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**",
-          "**/includes/**",
+          "**/obj/**",        
           "token.md",
           "README.md",
           "LICENSE",
