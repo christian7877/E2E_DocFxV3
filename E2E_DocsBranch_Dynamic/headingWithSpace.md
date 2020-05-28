@@ -5,8 +5,5 @@ title: test
 
 # H1
 
-h1 content goes here
-# H2
-
-
-h2 content goes here
+image case ![A fallback image](windows.jpg) 
+see "how token works" in [!INCLUDE[token](token.md)]
